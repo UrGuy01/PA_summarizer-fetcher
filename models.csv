@@ -1,0 +1,12 @@
+Model Name,Provider,Release Date,Parameters,Architecture,Training Data Cutoff,Key Features
+GPT-4,OpenAI,2023-03,>1T,Transformer,2023-01,Multimodal (text + image), better reasoning, long context
+GPT-3.5,OpenAI,2022-11,175B,Transformer,2021-09,Faster and cheaper than GPT-3, improved chat
+Claude 2,Anthropic,2023-07,Unknown,Constitutional AI,2023-01,Long context window (100k tokens), safety-focused
+Claude Instant,Anthropic,2023-03,Unknown,Constitutional AI,2023-01,Faster, cheaper Claude variant
+LLaMA 2,Meta,2023-07,7B / 13B / 70B,Transformer,2023-06,Open-source, strong fine-tuning ability
+PaLM 2,Google,2023-05,Unknown,Pathways Transformer,2023-01,Multilingual, strong reasoning in math/code
+Gemini 1.5,Google DeepMind,2024-02,Unknown,Multimodal Transformer,2024-01,Very long context window (1M tokens)
+Mistral 7B,Mistral AI,2023-09,7B,Transformer,2023-08,Efficient, open-weight, competitive performance
+Mixtral,Mistral AI,2023-12,46.7B (8x7B Mixture-of-Experts),MoE Transformer,2023-11,Open-weight, better efficiency
+Command R+,Cohere,2024-04,Unknown,Transformer,2024-02,RAG-optimized, strong retrieval abilities
+Falcon 180B,Technology Innovation Institute,2023-09,180B,Transformer,2023-07,Open-weight, high accuracy
